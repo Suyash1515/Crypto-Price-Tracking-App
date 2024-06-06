@@ -1,1 +1,1 @@
-# crypto-price-tracking-app
+The Crypto Price Tracking App, built with React.js, uses react-router-dom for navigation and react-google-charts for dynamic visualizations. It fetches real-time data from the CoinGecko API, displaying current prices, market caps, and detailed coin information. Users can explore interactive charts and seamless navigation between different sections. The app helps cryptocurrency enthusiasts stay informed and make data-driven decisions.
